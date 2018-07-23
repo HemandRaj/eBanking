@@ -1,4 +1,12 @@
 Welcome to E banking
+        -----------------------------------------
+        | Technology | 	JSP, Servlet, Hibernate |
+        |----------------------------------------
+        | Build Tool |	       Maven            |
+        |----------------------------------------
+        |  Database  |	       mysql            |
+        -----------------------------------------
+   
 
 This provides three type of access
   1.User
